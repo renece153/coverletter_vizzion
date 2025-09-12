@@ -5,9 +5,7 @@ title: Rey Lawrence Torrecampo
 
 
 # Rey Torrecampo
-
-**ERP Data Analyst Intern**  
-Vancouver, BC  
+Burnaby, BC  
 ---
 <details>
   <summary>📄 Cover Letter</summary>
