@@ -8,7 +8,6 @@ title: Rey Lawrence Torrecampo
 
 **ERP Data Analyst Intern**  
 Vancouver, BC  
-📧 rey.torrecampo@email.com
 ---
 <details>
   <summary>📄 Cover Letter</summary>
