@@ -3,116 +3,62 @@ layout: default
 title: Rey Lawrence Torrecampo
 ---
 
-# Rey's Portfolio
 
-Welcome to my GitHub portfolio! 
+# Rey Torrecampo
 
-## Professional Summary
+**ERP Data Analyst Intern**  
+Vancouver, BC  
+- 📧 rey.torrecampo@email.com
+- 🌐 [Portfolio](https://renece153.github.io/portfolio/)
+- 🔗 [Linkedin](https://www.linkedin.com/in/rey-lawrence-torrecampo-ece/)
+---
+<details>
+  <summary>📄 Cover Letter</summary>
+  
+## Cover Letter
+<div>
 
-A multidisciplinary full stack data professional with a strong foundation in building end-to-end solutions, automated workflows, and interconnected systems. Below are some of the projects I've worked on—each one reflects my curiosity, technical depth, and drive to solve real-world problems.
+Dear Vizzion Hiring Team,
+
+<p> I’m excited to apply for the Software Engineer position at Vizzion. With a strong foundation in software development and hands-on experience supporting enterprise systems, I’m eager to contribute to your mission of delivering high-quality road imagery solutions. </p>
+
+<p> During my 16-month internship at Kardium, I played a key role in the ERP go-live release, collaborating across departments to ensure data integrity and system performance. My work involved designing internal tools, optimizing SQL queries, and supporting cross-functional teams—experiences. I’m passionate about building tools that solve real-world problems and thrive in environments that value integrity, innovation, and long-term impact </p>
+
+<p> I’m particularly drawn to Vizzion’s values of integrity, long-term impact, and continuous improvement. These resonate with my own approach to work I prioritize thoughtful design, clear communication, and sustainable solutions. </p>
+
+<p> I’d love the opportunity to bring my energy, curiosity, and technical skills to Vizzion’s team. Thank you for considering my application—I look forward to the possibility of discussing how I can contribute to your continued success. </p>
+
+<p> I look forward to the opportunity to bring my energy, curiosity, and technical skills to your team. </p>
+
+Sincerely,
+
+**Rey Torrecampo** 
 
 ---
-## 📈 Dashboards
-
----
-### 🧠 Data Analysis on Education for COVID
-- **Summary:** An in-depth analysis on Covid's impact in Philippine Education.  Using statistical models, quantitative and qualitative analysis and data visualization, this study explores 1) deterioration of mental health and its adverse effect in online education and 2) the social and economical factors that hindred online education.  
-- **Tools:** _Looker, Microsoft Excel_
-- **Skills:** _Data Analysis, Visualization, Statistical Modeling_
-
-<div style="text-align: center;">
-  <iframe 
-    src="https://lookerstudio.google.com/embed/reporting/d9e2d119-8380-4992-9225-c2a7f9253f9b/page/axQOD" 
-    width="100%" 
-    height="600" 
-    frameborder="0" 
-    allowfullscreen
-    style="max-width: 800px; border: none;">
-  </iframe>
 </div>
+</details>
+
+<details>
+  <summary>🛠️ Skills</summary>
+  
+## 🛠️ Technical Skills
+- **Languages:** Python, SQL, JavaScript, PHP, HTML/CSS
+- **Databases:** PostgreSQL, MySQL, MS SQL Server
+- **Tools:** Tableau, Looker, Jupyter, AWS EC2, Lambda
+- **Concepts:** Data Analysis, RDBMS, API Development, Cloud Infrastructure
 
 ---
+## 📈 Experience
+- **ERP Go-Live Contributor** at Kardium  
+  Supported cross-functional teams during a major enterprise system rollout.
 
-### 🚦 MMDA Traffic Analysis
-- **Summary:** This project uses Tableau and SQL for analyzing traffic behaviour in the Philippines. Cleaning is done using MS SQL Server. SQL is the programming language for analyzing the data.
-- **Tools:** _Tableau, MS SQL Server, Excel_
-- **Skills:** _Data Cleaning, Behavioral Analysis_
+- **Internal Tools Developer**  
+  Built and optimized tools for data analysis and reporting.
 
-<div style="text-align: center;">
-  <a href="https://public.tableau.com/views/MMDADashboard-Sample/Dashboard1">
-    <img src="https://public.tableau.com/static/images/MM/MMDADashboard-Sample/Dashboard1/1_rss.png" alt="MMDA Dashboard Preview" />
-  </a>
-</div>
+- **Collaborator & Communicator**  
+  Worked closely with engineers, managers, and stakeholders to deliver high-quality solutions.
 
----
-
-### ✈️ Filipino Migration Analysis
-- **Summary:** This project uses Tableau and SQL for analyzing traffic behaviour in the Philippines. Cleaning is done using MS SQL Server. SQL is the programming language for analyzing the data.
-- **Tools:** _Tableau, MS SQL Server, Excel_
-- **Skills:** _Data Cleaning, Dashboards_
-
-**DASHBOARD**
-
-<div style="text-align: center;">
-  <a href="https://public.tableau.com/views/LinangSP801-Dashboard/AvgMigrationforCountryandTrend">
-    <img src="https://public.tableau.com/static/images/Li/LinangSP801-Dashboard/AvgMigrationforCountryandTrend/1_rss.png" alt="Dashboard Preview" />
-  </a>
-</div>
-
-**PPT DECK**
-
-<div style="text-align: center;">
-  <iframe 
-    src="https://docs.google.com/presentation/d/1lnjEUYQPrJt_RHJsBDATLCiE0famsivh/embed?start=false&loop=false&delayms=3000"
-    frameborder="0" 
-    width="960" 
-    height="569" 
-    allowfullscreen>
-  </iframe>
-</div>
-
----
-
-## 📓 Notebooks
-
----
-
-### 🚈 Compass Travel Expense Tracker
-- **Summary:**  A simple analysis on the amount spent for Translink by analzing Monthly Pass and cash value loading. The data set is manually extracted from Translink and loaded in a Postgres Database. However, the RDBMS was shut down due to incuring cost.
-- **Tools:** _PostgreSQL, SQL, Python_
-- **Skills:** _Data Engineering, Visualization, Cost Analysis_
-
-🔗 [Transportation Data Python Notebook](https://colab.research.google.com/drive/1NdTEyaCMcY-cBJlOcmXoGG16lMLZ7jZ4?usp=sharing)
-
----
-
-### 🚴 Google Data Analyst Case Study: Bike-Share Analysis
-- **Summary:** This project utilizes Python visualization and Looker for analyzing bike-share data. The dataset includes over 50 CSV files totaling more than 2GB, initially loaded into MS SQL Server. After cleaning and transforming the data with SQL, it’s extracted to Google Sheets for easy access to Google services. Python and Jupyter Notebook are then used for data visualization. Finally, Looker serves as a dashboard for further data visualization. All files can be found in the google colab. 
-- **Tools:** _MS SQL, Python, Jupyter, Looker _
-- **Skills:** _ETL, Data Visualization, T-SQL_
-
-**DASHBOARD**
-
-<div style="text-align: center;">
-  <iframe 
-    src="https://lookerstudio.google.com/embed/reporting/0f45bae0-6196-4436-a51e-8e2c5df4f2bc/page/GWEeD" 
-    width="100%" 
-    height="600" 
-    style="max-width: 800px; border: none;" 
-    frameborder="0" 
-    allowfullscreen>
-  </iframe>
-</div>
-
-**Jupyter Notebook**
-
-🔗 [Google Data Analyst Case Study: Bike-Share Analysis](https://colab.research.google.com/drive/1NdTEyaCMcY-cBJlOcmXoGG16lMLZ7jZ4?usp=sharing)
-
----
-
-## 📓 Software Development
-
----
+## 💼 Projects
 
 ### 🏥 Health Information Management System
 - **Summary:** Built a mobile-accessible API system using AWS Lambda and MS SQL Server.  
@@ -139,14 +85,20 @@ A multidisciplinary full stack data professional with a strong foundation in bui
 
 🔗 [Github Page](https://renece153.github.io/telegram_bot/)
 
+</details>
+<details>
+  <summary>🌱 Outside Work</summary>
 ---
-
-## 🛠️ Technical Skills
-- **Languages:** Python, SQL, JavaScript, PHP, HTML/CSS
-- **Databases:** PostgreSQL, MySQL, MS SQL Server
-- **Tools:** Tableau, Looker, Jupyter, AWS EC2, Lambda
-- **Concepts:** Data Analysis, RDBMS, API Development, Cloud Infrastructure
+  
+  I volunteer at:
+1. Big Brothers of Greater Vancouver (Math Tutor)
+2. Volunteer at AniRevo (Anime Revolution)
+3. Volunteer at Pinoy Burnaby Burnaby
+4. Volunteer at S.U.C.C.E.S.S.
+5. Previously Volunteer for B.E.S.T. (Better Environmentally Sound Transportation)
 
 ---
+</details>
 
-Thanks for visiting! Feel free to explore my repositories or reach out if you'd like to collaborate.
+© 2025 Rey Torrecampo
+
