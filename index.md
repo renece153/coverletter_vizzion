@@ -8,15 +8,12 @@ title: Rey Lawrence Torrecampo
 
 **ERP Data Analyst Intern**  
 Vancouver, BC  
-- 📧 rey.torrecampo@email.com
-- 🌐 [Portfolio](https://renece153.github.io/portfolio/)
-- 🔗 [Linkedin](https://www.linkedin.com/in/rey-lawrence-torrecampo-ece/)
+📧 rey.torrecampo@email.com
 ---
 <details>
   <summary>📄 Cover Letter</summary>
   
 ## Cover Letter
-<div>
 
 Dear Vizzion Hiring Team,
 
@@ -32,10 +29,10 @@ Dear Vizzion Hiring Team,
 
 Sincerely,
 
+
 **Rey Torrecampo** 
 
 ---
-</div>
 </details>
 
 <details>
@@ -43,20 +40,29 @@ Sincerely,
   
 ## 🛠️ Technical Skills
 - **Languages:** Python, SQL, JavaScript, PHP, HTML/CSS
+  
 - **Databases:** PostgreSQL, MySQL, MS SQL Server
+  
 - **Tools:** Tableau, Looker, Jupyter, AWS EC2, Lambda
+  
 - **Concepts:** Data Analysis, RDBMS, API Development, Cloud Infrastructure
 
 ---
 ## 📈 Experience
-- **ERP Go-Live Contributor** at Kardium  
+- **ERP Go-Live Contributor** at Kardium
+ 
   Supported cross-functional teams during a major enterprise system rollout.
 
-- **Internal Tools Developer**  
+
+- **Internal Tools Developer**
+
   Built and optimized tools for data analysis and reporting.
 
-- **Collaborator & Communicator**  
+
+- **Collaborator & Communicator**
+  
   Worked closely with engineers, managers, and stakeholders to deliver high-quality solutions.
+
 
 ## 💼 Projects
 
@@ -90,7 +96,7 @@ Sincerely,
   <summary>🌱 Outside Work</summary>
 ---
   
-  I volunteer at:
+I volunteer at:
 1. Big Brothers of Greater Vancouver (Math Tutor)
 2. Volunteer at AniRevo (Anime Revolution)
 3. Volunteer at Pinoy Burnaby Burnaby
