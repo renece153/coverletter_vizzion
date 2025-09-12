@@ -4,6 +4,13 @@ baseurl: "" # Leave blank if deploying to root of GitHub Pages
 url: "https://renece153.github.io"
 remote_theme: pages-themes/primer@v0.6.0
 
+
+sass:
+  style: compressed
+
+include:
+  - assets/css/custom.css
+
 # Build settings
 markdown: kramdown
 plugins:
