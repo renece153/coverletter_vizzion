@@ -10,9 +10,9 @@ Burnaby, BC
 <details>
   <summary>📄 Cover Letter</summary>
   
-## Cover Letter
+<h2>Cover Letter</h2> 
 
-Dear Vizzion Hiring Team,
+<p> Dear Vizzion Hiring Team, </p>
 
 <p> I’m excited to apply for the Software Engineer position at Vizzion. With a strong foundation in software development and hands-on experience supporting enterprise systems, I’m eager to contribute to your mission of delivering high-quality road imagery solutions. </p>
 
@@ -24,10 +24,9 @@ Dear Vizzion Hiring Team,
 
 <p> I look forward to the opportunity to bring my energy, curiosity, and technical skills to your team. </p>
 
-Sincerely,
+<p>Sincerely,
 
-
-**Rey Torrecampo** 
+**Rey Torrecampo** </p>
 
 ---
 </details>
